@@ -1,4 +1,4 @@
-
+This repo is taken from a small consulting project I did for a non-profit. All the code is here, and the `Report.md` file contains the full write-up.
 ## Technical details
 
 This report was created using Python 2.7 and R 3.2.3 on Mac OS 10.11.  
